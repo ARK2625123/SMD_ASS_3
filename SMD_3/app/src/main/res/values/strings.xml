@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">SMD_3</string>
     <string name="there_is_no_such_thing_as_a_locked_door">\'There Is No Such Thing As A Locked Door\'</string>
+    <string name="alohamora">Alohamora</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="signpassword">Password</string>
+    <string name="signusername">Username</string>
+    <string name="name">Name</string>
+    <string name="msign_up">Sign-up</string>
+    <string name="home">Home</string>
+    <string name="login_pwd">Passwords</string>
+    <string name="counter">counter</string>
+    <string name="passwords">Passwords</string>
+    <string name="pusername">Username</string>
+    <string name="ppassword">Password</string>
+    <string name="purl">URL</string>
 </resources>
