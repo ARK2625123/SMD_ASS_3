@@ -40,6 +40,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/name"
+            android:id="@+id/sname"
             android:gravity="center"
             android:textColorHint="@color/white"
             android:padding="20dp"
@@ -49,6 +50,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/signusername"
+            android:id="@+id/suser"
             android:gravity="center"
             android:textColorHint="@color/white"
             android:padding="20dp"
@@ -56,6 +58,7 @@
             />
         <EditText
             android:layout_width="match_parent"
+            android:id="@+id/spass"
             android:layout_height="wrap_content"
             android:hint="@string/signpassword"
             android:gravity="center"
@@ -79,7 +82,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
 
-                android:id="@+id/Bexit"
+                android:id="@+id/ssign"
                 android:layout_marginHorizontal="30dp"
                 android:text="@string/sign_up"
                 android:textColor="@color/white"

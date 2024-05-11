@@ -21,6 +21,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".signup" android:parentActivityName=".MainActivity"/>
+        <activity android:name=".home" android:parentActivityName=".MainActivity" />
+        <activity android:name=".password" android:parentActivityName=".MainActivity"/>
     </application>
 
 </manifest>
